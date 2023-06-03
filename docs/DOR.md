@@ -44,9 +44,9 @@ O projeto Modelo de Predição de Tarifas tem como objetivo desenvolver um model
 
     * [x] Treino do modelo
 
-    * [ ] Avaliação do modelo
+    * [x] Avaliação do modelo
 
-    * [ ] Implementação do modelo
+    * [x] Implementação do modelo
 
 ##### 5. Critérios de Sucesso: 
 
