@@ -1,6 +1,6 @@
 # eFinance-ml-model
 
-This repository contains the preliminar machine learning model for service fees forecast prediction. 
+This repository contains the preliminar machine learning model for service fees prediction on eFinance application. 
 
 ##### Documentation
 

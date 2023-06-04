@@ -1,55 +1,53 @@
-# forecast-ml-model
+# eFinance-ml-prediction-model
 
-### Modelo de Predição de Tarifas
+### Tariff Prediction Model
 
-##### 1. Visão Geral do Projeto:
+#### 1. Project Overview:
 
-O projeto Modelo de Predição de Tarifas tem como objetivo desenvolver um modelo de aprendizado de máquina que preveja o valor de tarifa de serviço oferecido por uma determinada instituição financeira brasileira. Modelo analisará dados históricos das instituições financeiras disponibilizados pelo Banco Central do Brasil para identificar padrões de queda a ascenção dos valores. Ao prever a oscilação de valor de tarifa, o usuário poderá tomar medidadas proativas para minimizar seus custos por uso dos serviços.
+The Tariff Prediction Model project aims to develop a machine learning model that predicts the value of the service fee offered by a given Brazilian financial institution. The model will analyze historical data from financial institutions made available by the Central Bank of Brazil to identify patterns of falling and rising values. By predicting fluctuations in the tariff value, the user will be able to take proactive measures to minimize his costs for using the services.
 
-##### 2. Objetivos do Projeto:
+#### 2. Project Objectives:
 
-* Desenvolver um modelo preditivo que indique com precisão a varição da tarifa de serviço oferecido por uma instituição financeira.
+* Develop a predictive model that accurately indicates the variation in the service fee offered by a financial institution.
 
-* Auxiliar o usuário na tomada de decisão na escolha de melhor instituição financeira para suas necessidades.
+* Assist the user in making a decision in choosing the best financial institution for their needs.
 
-##### 3. Escopo do Projeto:
+#### 3. Project Scope:
 
-* **Coleta de dados**: Obter dados de tarifas de serviços instituições financeiras por meio dos dados abertos do banco central do brasil.
+* **Data collection**: Obtain service fee data from financial institutions through open data from the central bank of Brazil.
 
-* **Pré-processamento de Dados**: Limpar e preparar os dados para lidar com valores ausentes, outliers e garantir a qualidade dos dados.
+* **Data Pre-Processing**: Clean and prepare data to handle missing values, outliers and ensure data quality.
 
-* **Desenvolvimento do Modelo**: Construir e treinar um modelo de aprendizagem de máquina utilizando algoritmo Random Forest Regression para séries temporais.
+* **Model Development**: Build and train a machine learning model using Random Forest Regression algorithm for time series.
 
-* **Avaliação do Modelo**: Avaliar o desempenho do modelo utilizando métricas e técnicas de validação adequadas.
+* **Model Evaluation**: Evaluate model performance using appropriate metrics and validation techniques.
 
-* **Implantação do Modelo**: Implementar o modelo preditivo em um servidor Flask para ser consumido pela aplicação frontend.
+* **Model Deployment**: Deploy the predictive model on a Flask server to be consumed by the frontend application.
 
-* **Monitoramento e Manutenção**: Monitorar e atualizar continuamente o modelo para garantir sua precisão e relevância ao longo de tempo.
+* **Monitoring and Maintenance**: Continuously monitor and update the model to ensure its accuracy and relevance over time.
 
-##### 4. Cronograma do Projeto:
+##### 4. Project Schedule:
 
-* Início: 13/03/2023
+* Beginning: 03/13/2023
 
-* Término: 04/06/2023
+* End date: 06/04/2023
 
-* Marcos:
+* Frames:
 
-    * [x] Obtenção dos dados
+    * [x] Obtaining data
 
-    * [x] Análise exploratória dos dados
+    * [x] Exploratory data analysis
 
-    * [x] Preparação dos dados
+    * [x] Data preparation
 
-    * [x] Contrução do modelo
+    * [x] Model construction
 
-    * [x] Treino do modelo
+    * [x] Model training
 
-    * [x] Avaliação do modelo
+    * [x] Model evaluation
 
-    * [x] Implementação do modelo
+    * [x] Model implementation
 
-##### 5. Critérios de Sucesso: 
+##### 5. Success Criteria:
 
-* Alcançar uma precisão de previsão de pelo menos 80%.
-
-* Contribuir com a tomada de decisão do usuário em relação à contratação de serviços oferecidos pelas instituições financeiras.
+* Contribute to the user's decision-making regarding the contracting of services offered by financial institutions.
